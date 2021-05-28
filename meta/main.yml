@@ -1,0 +1,10 @@
+galaxy_info:
+  author: Anders Pearson
+  description: enable unattended upgrades on an ubuntu system
+  company: Appsembler
+  license: MIT
+  min_ansible_version: 2.9
+  galaxy_tags: []
+
+dependencies: []
+  
